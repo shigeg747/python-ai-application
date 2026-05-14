@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.pyc
+.DS_Store
+Untitled
+user,gh
+.agents/
+.claude/
+blog_article.md
+code_explanation.md
+skills-lock.json
